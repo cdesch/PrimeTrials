@@ -4,7 +4,7 @@ Trail Results from running Dave Plummers [Primes Drag Race](https://github.com/P
 
 ## Results
 
-- [2021-07-16](trails/2021-07-16.csv)
+- [2021-07-16](trials/2021-07-16.csv)
 
 ## System Specs
 
